@@ -9,10 +9,10 @@
 ### Research Questions :rocket: 
 
 
-- [ ] When is the best time to tweet?
+- [x] When is the best time to tweet?
 - [x] (We know from the paper adding hashtags in the post might be helpful, while not adding URLs.)
-- [ ] How does the number of followers/ followers/ friends matter? (We knew from the paper that the number of followers/ followers are positively associated with retweet count, but is the effect linear?)
-- [ ] Does tweeting in a more commonly spoken language (like English) help?
+- [x] How does the number of followers/ followers/ friends matter? (We knew from the paper that the number of followers/ followers are positively associated with retweet count, but is the effect linear?)
+- [x] Does tweeting in a more commonly spoken language (like English) help?
 
 
 ### Proposed dataset
@@ -35,9 +35,9 @@ Then we carry out necessary data processing, like propensity score matching and 
 
 ### Proposed timeline
 
-- [ ] Load data, understand the dataset and preprocess data. Week1
-- [ ] Gain an insight through visualization and start to prepare the story. Week2
-- [ ] Carry out regression analysis and use techniques for controlling covariants. Week3
+- [x] Load data, understand the dataset and preprocess data. Week1
+- [x] Gain an insight through visualization and start to prepare the story. Week2
+- [x] Carry out regression analysis and use techniques for controlling covariants. Week3
 - [ ] Prepare the presentation. Week4
 
 ### Organization within the team
